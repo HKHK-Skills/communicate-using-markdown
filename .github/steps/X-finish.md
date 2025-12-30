@@ -3,28 +3,28 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## Lõpeta
 
-_Congratulations friend, you've completed this course!_
+_Palju õnne sõber, oled selle kursuse lõpetanud!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Siin on kokkuvõte kõigist ülesannetest, mida oled oma repositooriumis täitnud:
 
-1. You learned about Markdown, headings, images, code examples, and task lists.
-1. You created and merged a Markdown file.
-1. You learned an essential GitHub skill. 🎉
+1. Sa õppisid Markdown'i, pealkirjade, piltide, koodinäidete ja ülesandeloendite kohta.
+1. Sa lõid ja ühendasid Markdown-faili.
+1. Sa õppisid olulise GitHubi oskuse. 🎉
 
-### What's next?
+### Mis edasi?
 
-- You can enable GitHub Pages and see your Markdown file as a website!
-  1. Under your repository name at the upper right, click :gear: **Settings**.
-  1. Then on the lower left, click **Pages** in the **Code and automation** section.
-  1. In the **GitHub Pages** section, ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu as your GitHub Pages publishing source.
-  1. Click the **Save** button.
-  1. Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
-- Learn more about [Markdown](https://docs.github.com/github/writing-on-github).
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown)
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Saad lubada GitHub Pages ja näha oma Markdown-faili veebilehena!
+  1. Oma repositooriumi nime all üleval paremal kliki :gear: **Settings**.
+  1. Seejärel vasakul all kliki **Pages** sektsioonis **Code and automation**.
+  1. **GitHub Pages** sektsioonis veendu, et rippmenüüst **Source** on valitud "Deploy from a branch", seejärel vali rippmenüüst **Branch** valik `main` oma GitHub Pages avaldamise allikaks.
+  1. Kliki nuppu **Save**.
+  1. Oota umbes 30 sekundit ja värskenda lehte. Kui näed "Your site is published at ..." saad lingil klikkida, et näha oma avaldatud veebilehte.
+- Õpi rohkem [Markdown'i](https://docs.github.com/github/writing-on-github) kohta.
+- Tahaksime kuulda, mida arvad sellest kursusest [meie arutelufoorumis](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown)
+- [Läbi veel üks GitHub Skills kursus](https://github.com/skills).
+- [Loe GitHubi alustamise dokumentatsiooni](https://docs.github.com/get-started).
+- Projektide leidmiseks, kuhu panustada, vaata [GitHub Explore](https://github.com/explore)'i.

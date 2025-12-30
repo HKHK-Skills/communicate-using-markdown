@@ -4,13 +4,13 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 3: Add a code example
+## Samm 3: Lisa koodinäide
 
-_Great job adding an image to the file :tada:_
+_Suurepärane töö pildi lisamisel faili :tada:_
 
-Let's add some code blocks. Code blocks can render differently depending on the language.
+Lisame mõned koodiplokid. Koodiplokid võivad sõltuvalt keelest erinevalt renderduda.
 
-### Example 1
+### Näide 1
 
 <pre>
 ```
@@ -19,31 +19,31 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 </pre>
 
-#### How it looks
+#### Kuidas see välja näeb
 
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-### Example 2
+### Näide 2
 
 <pre>
 ``` javascript
-var myVar = "Hello, world!";
+var myVar = "Tere, maailm!";
 ```
 </pre>
 
-#### How it looks
+#### Kuidas see välja näeb
 
 ```javascript
-var myVar = "Hello, world!";
+var myVar = "Tere, maailm!";
 ```
 
-### :keyboard: Activity: Adding a code example
+### :keyboard: Tegevus: Koodinäite lisamine
 
-1. As you did before, edit the file in this pull request.
-1. In the file, add the correct Markdown for a code example of your choice.
-1. Use the **Preview** tab to check your Markdown formatting.
-1. Commit your changes.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Nagu varem, muuda faili selles pull request'is.
+1. Lisa faili õige Markdown oma valitud koodinäite jaoks.
+1. Kasuta **Preview** vahelehte oma Markdown'i vorminduse kontrollimiseks.
+1. Commit'i oma muudatused.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

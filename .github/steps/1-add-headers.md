@@ -6,46 +6,46 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Add headers
+## Samm 1: Lisa pealkirjad
 
-_Welcome to "Communicate using Markdown"! :wave:_
+_Tere tulemast kursusele "Suhtlemine Markdown'i abil"! :wave:_
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+**Mis on _Markdown_?** Markdown on [kerge süntaks](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) GitHubis suhtlemiseks. Saad vormindada teksti, et lisada pealkirju, loendeid, **paksu**, _kaldkirja_, tabeleid ja palju muid stiile. Saad Markdown'i kasutada enamikus kohtades GitHubis:
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+- Kommentaarid [issue'des](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull request'ides](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) ja [aruteludes](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+- Failid laiendiga `.md` või `.markdown`
+- Tekstilõikude jagamine [Gist'ides](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+**Mis on _pealkiri_?** Pealkiri on suurem tekst sektsiooni alguses. On kuus suurust.
 
-### Example
+### Näide
 
 ```md
-# This is an `<h1>` header, which is the largest
+# See on `<h1>` pealkiri, mis on suurim
 
-## This is an `<h2>` header
+## See on `<h2>` pealkiri
 
-###### This is an `<h6>` header, which is the smallest
+###### See on `<h6>` pealkiri, mis on väikseim
 ```
 
-#### How it looks
+#### Kuidas see välja näeb
 
-# This is an `<h1>` header, which is the largest
+# See on `<h1>` pealkiri, mis on suurim
 
-## This is an `<h2>` header
+## See on `<h2>` pealkiri
 
-###### This is an `<h6>` header, which is the smallest
+###### See on `<h6>` pealkiri, mis on väikseim
 
-### :keyboard: Activity: Edit your file with headers
+### :keyboard: Tegevus: Muuda oma faili pealkirjadega
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Ava uus brauseri vahekaart ja tööta sammude kallal teises vahekaardis, lugedes juhiseid sellel vahekaardil.
+1. Ava **pull requests** vaheleht.
+1. Kliki **New pull request**, harude võrdlemiseks vali `base: main` ja `compare: start-markdown`.
+1. Kliki **Create pull request**.
+1. Selles pull request'is mine vahekaardile **Files changed**. Tegime sulle tühja faili `index.md`.
+1. Vali **Edit file** kolme punktiga **...** menüüst failivaate üleval paremal nurgal failil `index.md`.
+1. Vahekaardil **Edit file** lisa `#`, millele järgneb **tühik**, enne ükskõik millist sisu, mida soovid, et muuta see H1 pealkirjaks. Saad lisada rohkem pealkirju, kasutades ühte kuni kuut `#` märki, millele järgneb **tühik**.
+1. Uue sisu kohal kliki **Preview**.
+1. Lehe allosas kirjuta lühike, tähenduslik commit-sõnum, mis kirjeldab failis tehtud muudatust.
+1. Kliki **Commit changes**.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

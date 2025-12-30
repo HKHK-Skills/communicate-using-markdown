@@ -4,41 +4,41 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Make a task list
+## Samm 4: Tee ülesandeloend
 
-_Great job adding a code example to the file :partying_face:_
+_Suurepärane töö koodinäite lisamisel faili :partying_face:_
 
-**What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+**Mis on _ülesandeloend_?** Ülesandeloend loob märkeruudud linnukeste tegemiseks. Need on väga kasulikud issue'de ja pull request'ide jälgimiseks. Kui lisad ülesandeloendi issue või pull request'i sisu hulka, näed oma issue'de nimekirjas edenemise indikaatorit. Ülesandeloendite süntaks on väga spetsiifiline. Veendu, et lisad tühikud sinna, kus vaja, vastasel juhul need ei renderdu.
 
-### Example
+### Näide
 
 ```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Loendi süntaks on nõutud
+- [x] See üksus on lõpetatud
+- [ ] See üksus pole lõpetatud
 ```
 
-#### How it looks
+#### Kuidas see välja näeb
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Loendi süntaks on nõutud
+- [x] See üksus on lõpetatud
+- [ ] See üksus pole lõpetatud
 
-### :keyboard: Activity: Add a task list
+### :keyboard: Tegevus: Lisa ülesandeloend
 
-GitHub Actions went ahead and made a branch for you. So you'll need to add to the file we've created in the branch, and we will check your work as you work through this course!
+GitHub Actions tegi sulle haru. Nii et pead lisama faili, mille oleme harus loonud, ja me kontrollime sinu tööd, kui sa selle kursuse läbid!
 
-1. Return to your pull request.
-1. Use Markdown to create a task list. Here is an example:
+1. Naase oma pull request'i.
+1. Kasuta Markdown'i ülesandeloendi loomiseks. Siin on näide:
 
    ```md
-   - [ ] Turn on GitHub Pages
-   - [ ] Outline my portfolio
-   - [ ] Introduce myself to the world
+   - [ ] Lülita sisse GitHub Pages
+   - [ ] Visanda oma portfoolio
+   - [ ] Tutvusta ennast maailmale
    ```
 
-   Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
+   Pea meeles, ülesandeloend algab süntaksiga `- [ ]` ja siis ülesandeloendi üksus. Vormindus on spetsiifiline!
 
-1. Use the **Preview** tab to check your Markdown formatting.
-1. Commit the changes to the file.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Kasuta **Preview** vahelehte oma Markdown'i vorminduse kontrollimiseks.
+1. Commit'i muudatused faili.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

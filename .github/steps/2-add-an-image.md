@@ -4,26 +4,26 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Add an image
+## Samm 2: Lisa pilt
 
-_Great job adding headers to the file :sparkles:_
+_Suurepärane töö pealkirjade lisamisel faili :sparkles:_
 
-Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
+Lisame pildi. Lisa kirjeldav tekst nurksulgudesse. Seda teksti loetakse ette ekraanilugejaid kasutavatele inimestele. Seda näidatakse ka siis, kui pilti ei kuvata, näiteks halva ühenduse korral. Piltide süntaksit näed allpool:
 
-### Example
+### Näide
 
 ```md
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat'i pilt](https://octodex.github.com/images/yaktocat.png)
 ```
 
-#### How it looks
+#### Kuidas see välja näeb
 
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+<img alt="Yaktocat'i pilt" src=https://octodex.github.com/images/yaktocat.png width=400>
 
-### :keyboard: Activity: Adding an image
+### :keyboard: Tegevus: Pildi lisamine
 
-1. As you did before, edit the `index.md` file in this pull request.
-1. In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
-1. Use the **Preview** tab to check your Markdown formatting.
-1. Commit your changes.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Nagu varem, muuda `index.md` faili selles pull request'is.
+1. Lisa faili õige Markdown oma valitud pildi jaoks. Ära unusta alt-teksti!
+1. Kasuta **Preview** vahelehte oma Markdown'i vorminduse kontrollimiseks.
+1. Commit'i oma muudatused.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.
