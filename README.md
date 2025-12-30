@@ -68,7 +68,7 @@ Sellel kursusel sa:
 
 ---
 
-Abi saamiseks: [Postita meie arutelufoorumis](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Vaata GitHubi staatuslehte](https://www.githubstatus.com/)
+Abi saamiseks: [HKHK-Skills Discussions](https://github.com/orgs/HKHK-Skills/discussions)
 
 &copy; 2023 GitHub &bull; [Käitumisjuhend](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT litsents](https://gh.io/mit)
 
